@@ -1,3 +1,5 @@
+# Physics Informed Neural Networks
+
 Basic implementations of Physics Informed Neural Networks (PINN) with PyTorch.
 
 PINN is a machine learning framework that integrates deep neural networks with physical laws or constraints, involving the solution of complex inverse problems and partial differential equations (PDEs). These combine domain knowledge with standard techniques and offer a powerful approach for solving inverse problems, identifying parameters, and predicting physical systems' behavior. These networks are trained on both observed data and governing equations, facilitating accurate predictions while ensuring adherence to underlying physics principles. PINNs find applications across various domains, including fluid dynamics, solid mechanics, and medical imaging, providing a versatile tool for scientific discovery and engineering applications.
