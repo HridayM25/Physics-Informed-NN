@@ -21,6 +21,17 @@ The Burgers' Equation is as follows :
 ![newplot](https://github.com/HridayM25/Physics-Informed-NN/assets/107138441/85ea7ea7-93ea-45d4-9b01-25a7aa2d916a)
 
 
+I am also trying to implement the nonlinear Schrodinger Equation, which is as follows : 
+
+$ih_t+0.5h_{xx}+|h|^2h=0$
+
+$x∈[−5,5], t∈[0,π/2]$,
+
+$h(0,x)=2sech(x)$,
+
+$h(t,−5)=h(t,5)$,
+
+$hx(t,−5)=hx(t,5)$
 
 # References 
 
