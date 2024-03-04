@@ -42,3 +42,16 @@ Link: https://github.com/maziarraissi/PINNs/tree/master/appendix/continuous_time
 @article{raissi2017physicsII, title={Physics Informed Deep Learning (Part II): Data-driven Discovery of Nonlinear Partial Differential Equations}, author={Raissi, Maziar and Perdikaris, Paris and Karniadakis, George Em}, journal={arXiv preprint arXiv:1711.10566}, year={2017} }
 
 Also credits to : https://github.com/jayroxis/PINNs/tree/master for forming the baseline for the code.
+
+## Dependencies
+
+Major Dependencies:
+
+ - ***PyTorch (for PyTorch Implementation)***: ```pip install --upgrade torch``
+
+Peripheral Dependencies:
+ 
+ - ***numpy***: ```pip install numpy```
+ - ***plotly***: ```pip install plotly```
+ - ***matplotlib***: ```pip install matplotlib```
+ - ***scipy***: ```pip install scipy```
