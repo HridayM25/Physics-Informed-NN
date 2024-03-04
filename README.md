@@ -47,7 +47,7 @@ Also credits to : https://github.com/jayroxis/PINNs/tree/master for forming the 
 
 Major Dependencies:
 
- - ***PyTorch (for PyTorch Implementation)***: ```pip install --upgrade torch``
+ - ***PyTorch***: ```pip install --upgrade torch```
 
 Peripheral Dependencies:
  
